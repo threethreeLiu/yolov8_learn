@@ -1,0 +1,6 @@
+train: /Users/lts/Documents/code/code learn/yolo-learn/datasets/ImageSets/train/images
+val: /Users/lts/Documents/code/code learn/yolo-learn/datasets/ImageSets/val/images
+test: /Users/lts/Documents/code/code learn/yolo-learn/datasets/ImageSets/test/images
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
